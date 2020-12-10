@@ -2,7 +2,7 @@
 
 I'm a PhD candidate in the laboratory of [Professor Michelle O'Malley](https://omalleylab.com/) at the [University of California, Santa Barbara](https://www.ucsb.edu/).  I'm passionate about using the technology that nature itself has developed and honed over billions of years to make the world a better place, particularly through the study and engineering of microbes and microbial communities.
 
-A list of my publications can be found here. (will insert link)
+A list of my publications can be found [here](publications.md)
 
 # Research
 
