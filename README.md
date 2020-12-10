@@ -1,10 +1,12 @@
-## WHO AM I?
+I'm a PhD candidate in the laboratory of [Professor Michelle O'Malley](https://omalleylab.com/) at the [University of California, Santa Barbara](https://www.ucsb.edu/).  I'm passionate about using the technology that nature itself has developed and honed over billions of years to make the world a better place, particularly through the study and engineering of microbes and microbial communities.
 
-You can use the [editor on GitHub](https://github.com/katharinedickson/katharinedickson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a researcher in the O'Malley lab, 
 
-## OTHER STUFF
+## Advocacy
+
+## Other Passions
 
 ### Markdown
 
